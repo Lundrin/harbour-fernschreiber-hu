@@ -61,27 +61,27 @@
     </message>
     <message>
         <source>Open twemoji on GitHub</source>
-        <translation>twemoji megnyitása a GitHub-on</translation>
+        <translation>twemoji megnyitása a GitHubon</translation>
     </message>
     <message>
         <source>By Sebastian J. Wolf and &lt;a href=&quot;https://github.com/Wunderfitz/harbour-fernschreiber#contributions&quot;&gt;other contributors&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Sebastian J. Wolf és &lt;a href=&quot;https://github.com/Wunderfitz/harbour-fernschreiber#contributions&quot;&gt;más hozzájárulóktól&lt;/a&gt;</translation>
     </message>
     <message>
         <source>This project uses rlottie. Copyright 2020 Samsung Electronics Co., Ltd. and other contributors. Thanks for making it available under the conditions of the MIT License!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a projekt rlottie-t használ. Copyright 2020 Samsung Electronics Co., Ltd. és más hozzájárulók. Köszönjük, hogy elérhetővé tették aZ MIT Licenc feltételei alatt!</translation>
     </message>
     <message>
         <source>Open rlottie on GitHub</source>
-        <translation type="unfinished"></translation>
+        <translation>Rlottie megnyitása GitHubon</translation>
     </message>
     <message>
         <source>This project uses OpenStreetMap Nominatim for reverse geocoding of location attachments. Thanks for making it available as web service!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a projekt OpenStreetMap Nominatimet használ a helyszín csatolmányok inverz geokódoláshoz. Köszönjük, hogy elérhetővé tették mint web szolgáltatás!</translation>
     </message>
     <message>
         <source>Open OSM Nominatim Wiki</source>
-        <translation type="unfinished"></translation>
+        <translation>OSM Nominatim Wiki megnyitása</translation>
     </message>
 </context>
 <context>
@@ -99,78 +99,78 @@
     <name>ChatInformationPageContent</name>
     <message numerus="yes">
         <source>%1 subscribers</source>
-        <translation type="unfinished">
-            <numerusform>%1 feliratkozott</numerusform>
+        <translation>
+            <numerusform>%1 feliratkozó</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%1 members</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%1 tag</numerusform>
         </translation>
     </message>
     <message>
         <source>Leave Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Csevegés elhagyása</translation>
     </message>
     <message>
         <source>Join Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Csatlakozás a csevegéshez</translation>
     </message>
     <message>
         <source>Leaving chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Elhagyod a csevegést</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Ismeretlen</translation>
+        <translation>Ismeretlen</translation>
     </message>
     <message>
         <source>Chat Title</source>
         <comment>group title header</comment>
-        <translation type="unfinished"></translation>
+        <translation>Csevegés fejléce</translation>
     </message>
     <message>
         <source>Enter 1-128 characters</source>
-        <translation type="unfinished"></translation>
+        <translation>Írjon be 1-128 karaktert</translation>
     </message>
     <message>
         <source>There is no information text available, yet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nincs még elérhető leírás</translation>
     </message>
     <message>
         <source>Info</source>
         <comment>group or user infotext header</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Csoport vagy felhasználó leírás fejléc</translation>
     </message>
     <message>
         <source>Phone Number</source>
         <comment>user phone number header</comment>
-        <translation type="unfinished"></translation>
+        <translation>Telefonszám</translation>
     </message>
     <message>
         <source>Invite Link</source>
         <comment>header</comment>
-        <translation type="unfinished"></translation>
+        <translation>Meghívó Link</translation>
     </message>
     <message>
         <source>The Invite Link has been copied to the clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Meghívó Link a vágólapra került.</translation>
     </message>
     <message>
         <source>%1, %2</source>
         <comment>combination of &apos;[x members], [y online]&apos;, which are separate translations</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2</translation>
     </message>
     <message numerus="yes">
         <source>%1 online</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 elérhető</numerusform>
         </translation>
     </message>
     <message>
         <source>New Secret Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Új titkos csevegés</translation>
     </message>
     <message>
         <source>Unmute Chat</source>
@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>ID has been copied to the clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>Az azonosító a vágólapra került.</translation>
     </message>
 </context>
 <context>
@@ -190,27 +190,27 @@
     <message>
         <source>Loading common chats…</source>
         <comment>chats you have in common with a user</comment>
-        <translation type="unfinished"></translation>
+        <translation>Közös csevegések betöltése...</translation>
     </message>
     <message>
         <source>Loading group members…</source>
-        <translation type="unfinished"></translation>
+        <translation>Csoport tagok betöltése...</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished">Te</translation>
+        <translation>Te</translation>
     </message>
     <message>
         <source>You don&apos;t have any groups in common with this user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs közös csoportod ezzel a felhasználóval.</translation>
     </message>
     <message>
         <source>This group is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a csoport üres</translation>
     </message>
     <message>
         <source>Channel members are anonymous.</source>
-        <translation type="unfinished"></translation>
+        <translation>A csatorna tagjai névtelenek.</translation>
     </message>
 </context>
 <context>
@@ -218,48 +218,48 @@
     <message>
         <source>Groups</source>
         <comment>Button: groups in common (short)</comment>
-        <translation type="unfinished"></translation>
+        <translation>Csoportjaitok</translation>
     </message>
     <message>
         <source>Members</source>
         <comment>Button: Group Members</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tagok</translation>
     </message>
     <message>
         <source>Settings</source>
         <comment>Button: Chat Settings</comment>
-        <translation type="unfinished">Beállítások</translation>
+        <translation>Beállítások</translation>
     </message>
 </context>
 <context>
     <name>ChatListViewItem</name>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Ismeretlen</translation>
+        <translation>Ismeretlen</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished">Te</translation>
+        <translation>Te</translation>
     </message>
     <message>
         <source>User Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Felhasználó infó</translation>
     </message>
     <message>
         <source>Group Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Csoport infó</translation>
     </message>
     <message>
         <source>Mark all messages as read</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minden üzenet megjelölése olvasottként</translation>
     </message>
     <message>
         <source>No message in this chat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nincs üzenet ebben a csevegésben.</translation>
     </message>
     <message>
         <source>Mark chat as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Csevegés megjelölése olvasatlanként</translation>
     </message>
     <message>
         <source>Draft</source>

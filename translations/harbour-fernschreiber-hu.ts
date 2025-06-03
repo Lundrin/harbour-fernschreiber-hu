@@ -350,92 +350,92 @@
     </message>
     <message>
         <source>You joined the chat %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Csatlakoztál a %1 csevegéshez</translation>
     </message>
     <message>
         <source>Select Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzenetek kijelölése</translation>
     </message>
     <message numerus="yes">
         <source>%Ln Messages deleted</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%Ln üzenet törölve</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%Ln messages have been copied</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%Ln üzenet másolva</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Forward %Ln messages</source>
         <comment>dialog header</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%Ln üzenet továbbítása</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%Ln messages selected</source>
         <comment>number of messages selected</comment>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%Ln üzenet kijelölve</numerusform>
         </translation>
     </message>
     <message>
         <source>%1, %2</source>
         <comment>combination of &apos;[x members], [y online]&apos;, which are separate translations</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2</translation>
     </message>
     <message numerus="yes">
         <source>%1 online</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%1 elérhető</numerusform>
         </translation>
     </message>
     <message>
         <source>This secret chat is not yet ready. Your chat partner needs to go online first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a titkos csevegés még nincsen kész. A csevegő partnerednek előbb elérhetővé kell válnia.</translation>
     </message>
     <message>
         <source>Closing chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Csevegés bezárása</translation>
     </message>
     <message>
         <source>Close Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Csevegés bezárása</translation>
     </message>
     <message>
         <source>Search in Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Keresés a csevegésben</translation>
     </message>
     <message>
         <source>Search in chat...</source>
-        <translation type="unfinished"></translation>
+        <translation>Keresés a csevegésben...</translation>
     </message>
     <message>
         <source>Location: Obtaining position...</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyzet elérése...</translation>
     </message>
     <message>
         <source>Location (%1/%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Helyzet (%1/%2)</translation>
     </message>
     <message>
         <source>Copy Message to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzenet másolása vágólapra</translation>
     </message>
     <message>
         <source>Message unpinned</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzenet rögzítése feloldva</translation>
     </message>
     <message>
         <source>Unpin Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzenet rögzítésének feloldása</translation>
     </message>
     <message>
         <source>Pin Message</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzenet rögzítése</translation>
     </message>
     <message>
         <source>Additional Options</source>

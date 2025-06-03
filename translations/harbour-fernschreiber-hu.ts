@@ -251,7 +251,7 @@
     </message>
     <message>
         <source>Mark all messages as read</source>
-        <translation type="unfinished">Minden üzenet megjelölése olvasottként</translation>
+        <translation>Minden üzenet megjelölése olvasottként</translation>
     </message>
     <message>
         <source>No message in this chat.</source>
@@ -263,19 +263,19 @@
     </message>
     <message>
         <source>Draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Piszkozat</translation>
     </message>
     <message>
         <source>Mark chat as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Csevegés megjelölése olvasottként</translation>
     </message>
     <message>
         <source>Unpin chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Rögzítés visszavonása</translation>
     </message>
     <message>
         <source>Pin chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Csevegés rögzítése</translation>
     </message>
     <message>
         <source>Unmute chat</source>
@@ -298,14 +298,14 @@
     </message>
     <message numerus="yes">
         <source>%1 members</source>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%1 tag</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>%1 subscribers</source>
-        <translation type="unfinished">
-            <numerusform>%1 feliratkozott</numerusform>
+        <translation>
+            <numerusform>%1 feliratkozó</numerusform>
         </translation>
     </message>
     <message>
@@ -330,23 +330,23 @@
     </message>
     <message>
         <source>Uploading...</source>
-        <translation type="unfinished"></translation>
+        <translation>Feltöltés...</translation>
     </message>
     <message>
         <source>This chat is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez a csevegés üres.</translation>
     </message>
     <message>
         <source>Leave Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Csevegés elhagyása</translation>
     </message>
     <message>
         <source>Join Chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Csatlakozás a csevegéhez</translation>
     </message>
     <message>
         <source>Leaving chat</source>
-        <translation type="unfinished"></translation>
+        <translation>Csevegés elhagyása</translation>
     </message>
     <message>
         <source>You joined the chat %1</source>
